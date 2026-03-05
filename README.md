@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en-US">
 <body>
 <h1 style="font-size:60px;">This is a test website to code AI</h1>
