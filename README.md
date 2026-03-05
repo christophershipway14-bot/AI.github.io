@@ -2,9 +2,6 @@
 A test repository
 <!DOCTYPE html>
 <html>
-<head>
-<title>AI test page</title>
-</head>
 <body>
 
 <h1>This is a test website to code AI</h1>
