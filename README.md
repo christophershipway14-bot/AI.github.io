@@ -5,6 +5,4 @@
 <p style="color:red;">My first paragraph.</p>
 <p title=Description of page>
 <a href="https://www.w3schools.com">Visit W3Schools</a>
-<p style="font-family:verdana;" style="font-size:50%;" style="text-align:center;">This is an example paragraph.</p>
-</body>
-</html>
+<i style="font-family:verdana;" style="font-size:50%;" style="text-align:center;">This is an example paragraph.</p>
